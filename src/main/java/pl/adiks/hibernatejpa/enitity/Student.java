@@ -2,7 +2,6 @@ package pl.adiks.hibernatejpa.enitity;
 
 import lombok.Data;
 import lombok.NoArgsConstructor;
-import pl.adiks.hibernatejpa.Gender;
 
 import javax.persistence.*;
 

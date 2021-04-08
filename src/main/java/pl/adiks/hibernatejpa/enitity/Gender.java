@@ -1,4 +1,4 @@
-package pl.adiks.hibernatejpa;
+package pl.adiks.hibernatejpa.enitity;
 
 public enum Gender {
     MALE,

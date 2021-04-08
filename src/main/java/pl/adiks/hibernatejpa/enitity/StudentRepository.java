@@ -1,4 +1,4 @@
-package pl.adiks.hibernatejpa;
+package pl.adiks.hibernatejpa.enitity;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import pl.adiks.hibernatejpa.enitity.Student;
